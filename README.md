@@ -42,7 +42,7 @@ img
 
 ### 謝辞
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。
-https://twitter.com/miku1596
+- https://twitter.com/miku1596
 
 ### 販売サイト
 - BOOTH 
