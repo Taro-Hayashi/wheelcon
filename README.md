@@ -1,4 +1,4 @@
-# Wheel con 取り扱い説明書  
+# Wheel con 取り扱い説明書([English](README_EN.md))
   
 ## 内容品  
 - Wheel con... 1個
