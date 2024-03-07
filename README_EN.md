@@ -24,9 +24,13 @@ When the RPI-RP2 drive automatically disappears, you are done.
 You can change the plate or add rubber feet as you like.  
 
 ## Customize
-キーのカスタマイズにはRemapかVialを利用します。使いやすい方をお選びください。  
-- Remap https://remap-keys.app
+
+Use Vial to customize keys.  
 - Vial https://vial.rocks
+
+Connect and drag & drop the key you want to replace to change the setting.  
+![](img/vial.png)  
+
 
 ## Misc
 ### How to update firmware
