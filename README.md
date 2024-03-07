@@ -48,5 +48,5 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。  
 - https://twitter.com/miku1596
 
-### 販売サイト
-- BOOTH 
+### 販売サイト（予定）
+- BOOTH https://tarohayashi.booth.pm/items/5553379
