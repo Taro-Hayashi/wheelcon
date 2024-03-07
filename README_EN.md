@@ -4,6 +4,7 @@
 - Wheel con... 1
 - Spare plate... 1
 - Rubber feet... 4
+  
 ![](img/IMG_2659.jpg)
 
 ## Required
@@ -16,6 +17,7 @@ Recognized as an RPI-RP2 drive when connected to a PC.
 
 Please download this file and drag and drop it there.
 - [tarohayashi_wheel_con_vial.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_vial.uf2)
+  
 When the RPI-RP2 drive automatically disappears, you are done.
 
 ![](img/IMG_2672.jpg)  
