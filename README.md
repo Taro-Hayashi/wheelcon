@@ -38,7 +38,7 @@ img
 一旦ドライブが消え、また現れたらリセット完了です。
 
 ### ファームウェアのソースコード
-- 
+- https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
 
 ### 謝辞
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。
