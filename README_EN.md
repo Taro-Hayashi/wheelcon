@@ -31,12 +31,10 @@ Use Vial to customize keys.
 Connect and drag & drop the key you want to replace to change the setting.  
 ![](img/vial.png)  
 
-
-## Misc
-### How to update firmware
+## How to update firmware
 Press and hold the top wheel and connect your PC, The RPI-RP2 drive appears. Drag and drop the new firmware there.  
 
-### How to reset to factory defaults
+## How to reset to factory defaults
 Unscrew and disassemble it, then connect it to the PC while pressing the button on the back side, The RPI-RP2 drive appears.  
 ![](img/IMG_2667.jpg) 
 
@@ -45,12 +43,12 @@ Download flash_nuke.uf2 from the bottom item on this page and drag and drop it t
   
 Once the drive disappears and reappears, the reset is complete.  
 
-### Sorce
+## Sorce
 - https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
 
-### Thanks
+## Thanks
 This keyboard was commissioned and produced based on an idea by figure prototype maker CKB.   
 - https://twitter.com/miku1596
 
-### Sales (planned)
+## Sales (planned)
 - BOOTH https://tarohayashi.booth.pm/items/5553379
