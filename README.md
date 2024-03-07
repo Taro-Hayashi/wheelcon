@@ -37,7 +37,8 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 ![](img/IMG_2667.jpg) 
 
 こちらのページの一番下の項目からflash_nuke.uf2をダウンロードしてドラッグアンドドロップしてください。  
-- https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html  
+- https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+  
 一旦ドライブが消え、また現れたらリセット完了です。
 
 ### ファームウェアのソースコード
