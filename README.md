@@ -16,7 +16,7 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 ![](img/rpi.jpg)  
 
 こちらのファイルをダウンロードしてドラッグ&ドロップしてください。  
-- https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_via.uf2
+- tarohayashi_wheel_con_via.uf2 https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_via.uf2
 
 自動的にRPI-RP2ドライブが消えたらファームウェアのインストール完了です。  
 
