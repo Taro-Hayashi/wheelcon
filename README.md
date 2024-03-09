@@ -37,9 +37,11 @@ JSONはこちらをお使いください。
 一番上のホイールを押し込みながらPCに接続するとRPI-RP2ドライブが出てくるのでそちらに新しいファームウェアをドラッグ&ドロップしてください。  
 
 ### Vialの利用
-Remapの代わりにVialを使う場合はこちらのファームウェアを使ってください。
+Vialを使う場合はこちらのファームウェアを使ってください。  
 - [tarohayashi_wheel_con_vial.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_vial.uf2)
-Vialにアクセスしてご利用ください。
+
+  
+Vialにアクセスしてご利用ください。  
 - Vial https://vial.rocks
 
 ![](img/vial.png)  
