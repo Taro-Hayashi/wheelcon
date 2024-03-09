@@ -16,7 +16,8 @@ Recognized as an RPI-RP2 drive when connected to a PC.
 ![](img/rpi.jpg)  
 
 Please download this file and drag and drop it there.  
-- [tarohayashi_wheel_con_vial.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_vial.uf2)
+
+- [tarohayashi_wheel_con_via.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_via.uf2)
   
 When the RPI-RP2 drive automatically disappears, you are done.  
 
@@ -25,14 +26,21 @@ You can change the plate or add rubber feet as you like.
 
 ## Customize
 
-Use Vial to customize keys.  
-- Vial https://vial.rocks
+Use Remap to customize keys.  
+- Remap https://remap-keys.app/
 
-Connect and drag & drop the key you want to replace to change the setting.  
-![](img/vial.png)  
+Connect, drag & drop the key you want to replace and press the Flash button to change the setting.  
+![](img/remap.png)  
 
 ## How to update firmware
 Press and hold the top wheel and connect your PC, The RPI-RP2 drive appears. Drag and drop the new firmware there.  
+
+## Vial
+If you use Vial, please use this firmware.  
+- Vial https://vial.rocks
+
+Connect and drag & drop the key you want to replace to change the setting.    
+![](img/vial.png)  
 
 ## How to reset to factory defaults
 Unscrew and disassemble it, then connect it to the PC while pressing the button on the back side, The RPI-RP2 drive appears.  
@@ -44,7 +52,8 @@ Download flash_nuke.uf2 from the bottom item on this page and drag and drop it t
 Once the drive disappears and reappears, the reset is complete.  
 
 ## Sorce
-- https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- qmk_firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- vial-qmk https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
 
 ## Thanks
 This keyboard was commissioned and produced based on an idea by figure prototype maker CKB.   
