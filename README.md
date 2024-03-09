@@ -16,7 +16,6 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 ![](img/rpi.jpg)  
 
 こちらのファイルをダウンロードしてドラッグ&ドロップしてください。  
-- [tarohayashi_wheel_con_vial.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_vial.uf2)
 
 自動的にRPI-RP2ドライブが消えたらファームウェアのインストール完了です。  
 
@@ -24,15 +23,23 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 お好みでプレートを変更したりゴム足を付けたりして使ってください。  
 
 ## キーのカスタマイズ
-キーのカスタマイズにはVialをご利用ください。
-- Vial https://vial.rocks
+キーのカスタマイズにはRemapをご利用いただけます。
+- https://remap-keys.app
 
 接続し、入れ替えたいキーをドラッグ&ドロップすると設定が変更されます。
-![](img/vial.png)  
+![](img/remap.png)  
 
 ## その他
 ### ファームウェアの更新方法
 一番上のホイールを押し込みながらPCに接続するとRPI-RP2ドライブが出てくるのでそちらに新しいファームウェアをドラッグ&ドロップしてください。  
+
+### Vialの利用
+Remapの代わりにVialを使う場合はこちらのファームウェアを使ってください。
+- [tarohayashi_wheel_con_vial.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/download/0.23/tarohayashi_wheel_con_vial.uf2)
+Vialにアクセスしてご利用ください。
+- Vial https://vial.rocks
+
+![](img/vial.png)  
 
 ### 出荷状態へのリセット方法
 ねじを外して分解し、裏面のボタンを押しながらPCに接続するとRPI-RP2ドライブが出てきます。  
@@ -44,7 +51,8 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 一旦ドライブが消え、また現れたらリセット完了です。
 
 ### ファームウェアのソースコード
-- https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- qmk_firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- vial-qmk https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
 
 ### 謝辞
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。  
