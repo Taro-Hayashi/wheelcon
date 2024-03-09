@@ -27,7 +27,7 @@ PCに接続するとRPI-RP2というドライブとして認識されます。
 - https://remap-keys.app
 
 JSONはこちらをお使いください。
-- wheelnnnn_con.json
+- wheel_con.json
 
 接続し、入れ替えたいキーをドラッグ&ドロップすると設定が変更されます。
 ![](img/remap.png)  
