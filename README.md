@@ -64,5 +64,5 @@ Vialにアクセスしてご利用ください。
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。  
 - https://twitter.com/miku1596
 
-### 販売サイト（予定）
+### 販売サイト
 - BOOTH https://tarohayashi.booth.pm/items/5553379
