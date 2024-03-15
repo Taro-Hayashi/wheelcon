@@ -8,7 +8,7 @@
 
 ## ご用意いただくもの  
 - Type-C USBケーブル  
-- Windows/Mac/Linux（iPad、Androiで使用はできますが設定ができません）  
+- Windows/Mac/Linux（iPad、Androidでも使用できますが設定ができません）  
 
 ## 使用方法
 Wheel conに動作ソフト（ファームウェア）を書き込みます。  
