@@ -9,7 +9,7 @@
 
 ## Required
 - Type-C USB Cable
-- Windows/Mac/Linux
+- Windows/Mac/Linux (Can be used on iPad or Android but not configured)
 
 ## Usage
 Recognized as an RPI-RP2 drive when connected to a PC.   
@@ -59,5 +59,5 @@ Once the drive disappears and reappears, the reset is complete.
 This keyboard was commissioned and produced based on an idea by figure prototype maker CKB.   
 - https://twitter.com/miku1596
 
-## Sales (planned)
+## Sales
 - BOOTH https://tarohayashi.booth.pm/items/5553379
