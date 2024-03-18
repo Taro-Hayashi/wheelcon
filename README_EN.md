@@ -30,7 +30,7 @@ Use Remap to customize keys.
 - Remap https://remap-keys.app/
 
 Connect, drag & drop the key you want to replace and press the Flash button to change the setting.  
-![](img/remap.png)  
+![](img/remap.jpg)  
 
 ## How to update firmware
 Press and hold the top wheel and connect your PC, The RPI-RP2 drive appears. Drag and drop the new firmware there.  
