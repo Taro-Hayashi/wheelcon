@@ -11,7 +11,8 @@
 - Windows/Mac/Linux（iPad、Androidでも使用できますが設定ができません）  
 
 ## 使用方法
-Wheel conに動作ソフト（ファームウェア）を書き込みます。  
+Wheel conに動作ソフト（ファームウェア）を書き込みます。    
+  
 PCに接続するとRPI-RP2というドライブとして認識されます。  
 ![](img/rpi.jpg)  
 
