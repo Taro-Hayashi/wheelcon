@@ -29,7 +29,7 @@ Wheel conをPCに接続するとRPI-RP2というドライブとして認識さ�
 - https://remap-keys.app
 
 接続するとこのような画面になるので、入れ替えたいキーをドラッグ&ドロップしてFlashボタンを押すと設定が変更されます。
-![](img/remap.png)  
+![](img/remap.jpg)  
 
 ## その他
 ### ファームウェアの更新方法
