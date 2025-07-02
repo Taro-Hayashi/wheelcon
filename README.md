@@ -52,16 +52,6 @@ Wheel conをPCに接続するとRPI-RP2というドライブとして認識さ�
 ### ファームウェアの更新方法
 一番上のホイールを押し込みながらPCに接続するとRPI-RP2ドライブが出てくるのでそちらに新しいファームウェアをドラッグ&ドロップしてください。
 
-### Vialの利用
-Vialを使う場合はこちらのファームウェアを使ってください。
-- [tarohayashi_wheel_con_vial.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/latest/download/tarohayashi_wheel_con_vial.uf2)
-
-
-Vialにアクセスしてご利用ください。
-- Vial https://vial.rocks
-
-![](img/vial.png)
-
 ### 出荷状態へのリセット方法
 ねじを外して分解し、裏面のボタンを押しながらPCに接続するとRPI-RP2ドライブが出てきます。
 ![](img/IMG_2667.jpg)
@@ -72,8 +62,7 @@ Vialにアクセスしてご利用ください。
 一旦ドライブが消え、また現れたらリセット完了です。
 
 ### ファームウェアのソースコード
-- qmk_firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/wheel_con
-- vial-qmk https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/wheel_con
 
 ### 謝辞
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。
