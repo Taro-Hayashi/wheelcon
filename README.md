@@ -2,7 +2,7 @@
 
 ## 内容品
 - Wheel con... 1個
-![](img/IMG_2659.jpg)
+![](img/IMG_5368.jpg)
 
 ## ご用意いただくもの
 - Type-C USBケーブル
