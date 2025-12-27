@@ -50,7 +50,7 @@ Wheel conをPCに接続するとRPI-RP2というドライブとして認識さ�
 一旦ドライブが消え、また現れたらリセット完了です。
 
 ### ファームウェアのソースコード
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/_archive/wheel_con
 
 ### 謝辞
 このキーボードは原型師のCKB様のアイデアをもとに依頼を受けて製作しました。
