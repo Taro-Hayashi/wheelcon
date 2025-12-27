@@ -53,7 +53,7 @@ Download flash_nuke.uf2 from the bottom item on this page and drag and drop it t
 Once the drive disappears and reappears, the reset is complete.
 
 ## Sorce
-- qmk_firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/wheel_con
+- qmk_firmware https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/_archive/wheel_con
 - vial-qmk https://github.com/Taro-Hayashi/vial-qmk/tree/tarohayashi/keyboards/tarohayashi/wheel_con
 
 ## Thanks
